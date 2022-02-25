@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+narakotsu-data/
+onboard-data/
+.DS_Store
